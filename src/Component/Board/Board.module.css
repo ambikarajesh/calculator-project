@@ -1,0 +1,20 @@
+.Board{
+    width:200px;
+    height:100px;
+    
+
+}
+.MathExp, .Result{
+    width:200px;
+    height:50px;
+    text-align: right;
+    font-size:15px;
+    padding:15px 10px;
+    box-sizing: border-box;
+    color:#fff;
+
+}
+.Result{
+    padding:5px;
+    font-size: 27px;
+}

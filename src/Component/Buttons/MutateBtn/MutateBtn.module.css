@@ -1,0 +1,12 @@
+.MutateBtn{
+    width:200px;
+    height:50px;
+}
+.Btn{
+    background-color:#283031;
+    color:#fff;
+    border:1px solid #666;
+    width:100px;
+    height:50px;
+    font-weight: bold;
+  }
